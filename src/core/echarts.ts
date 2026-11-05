@@ -147,7 +147,7 @@ declare let global: any;
 
 type ModelFinder = modelUtil.ModelFinder;
 
-export const version = '6.1.0';
+export const version = '6.1.1-fork.1';
 
 export const dependencies = {
     zrender: '6.1.0'
